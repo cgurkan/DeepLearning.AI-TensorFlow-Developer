@@ -1,3 +1,4 @@
+## Convolutional Neural Networks in TensorFlow
 
 * Week 1: Exploring a Larger Dataset
 * Week 2: Augmentation: A technique to avoid overfitting
