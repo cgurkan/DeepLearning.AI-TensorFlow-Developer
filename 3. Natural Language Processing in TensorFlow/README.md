@@ -1,3 +1,4 @@
+## Natural Language Processing in TensorFlow
 
 * Week 1: Sentiment in Text
 * Week 2: Word Embeddings
